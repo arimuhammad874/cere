@@ -1,0 +1,8 @@
+{
+  "name": "cere",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite",
+  "id": "926f7aab"
+}
